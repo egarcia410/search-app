@@ -1,0 +1,17 @@
+{
+  "name": "search",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "Emmanuel Garcia <egarcia410@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
