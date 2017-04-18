@@ -9,7 +9,7 @@ var db = 'mongodb://localhost/search-app';
 
 mongoose.connect(db);
 
-app.use(bodyParser.json());
+app.use(bodyParser.json());  
 app.use(bodyParser.urlencoded({
     extended: true
 }));
